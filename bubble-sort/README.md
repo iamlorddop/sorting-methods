@@ -15,9 +15,7 @@ Let's look at an iteration example:
         <th>3</th>
         <th>4</th>
     </tr>
-    <tr>
-      <td>Bubble sort starts with very first two elements, comparing them to check which one is greater.</td>
-    </tr>
+    <p>Bubble sort starts with very first two elements, comparing them to check which one is greater.</p>
     <tr>
         <th>Pass 1</th>
         <td><b>5</b></td>
@@ -27,6 +25,7 @@ Let's look at an iteration example:
         <td>8</td>
     </tr>
     <tr>
+        <td><span></span></td>
         <td>1</td>
         <td><b>5</b></td>
         <td><b>4</b></td>
@@ -34,6 +33,7 @@ Let's look at an iteration example:
         <td>8</td>
     </tr>
     <tr>
+        <td><span></span></td>
         <td>1</td>
         <td>4</td>
         <td><b>5</b></td>
@@ -41,6 +41,7 @@ Let's look at an iteration example:
         <td>8</td>
     </tr>
     <tr>
+        <td><span></span></td>
         <td>1</td>
         <td>4</td>
         <td>2</td>
@@ -56,6 +57,7 @@ Let's look at an iteration example:
         <td>8</td>
     </tr>
     <tr>
+        <td><span></span></td>
         <td>1</td>
         <td><b>4</b></td>
         <td><b>2</b></td>
@@ -63,6 +65,7 @@ Let's look at an iteration example:
         <td>8</td>
     </tr>
     <tr>
+        <td><span></span></td>
         <td>1</td>
         <td>2</td>
         <td><b>4</b></td>
@@ -70,15 +73,14 @@ Let's look at an iteration example:
         <td>8</td>
     </tr>
     <tr>
+        <td><span></span></td>
         <td>1</td>
         <td>2</td>
         <td>4</td>
         <td><b>5</b></td>
         <td><b>8</b></td>
     </tr>
-    <tr>
-      <td>The array is already sorted, but algorithm does not know if it is completed. <br>The algorithm needs one whole pass without any swap to know it is sorted.</td>
-    </tr>
+    <p>The array is already sorted, but algorithm does not know if it is completed. <br>The algorithm needs one whole pass without any swap to know it is sorted.</p>
     <tr>
         <th>Pass 3</th>
         <td><b>1</b></td>
@@ -88,6 +90,7 @@ Let's look at an iteration example:
         <td>8</td>
     </tr>
     <tr>
+        <td><span></span></td>
         <td>1</td>
         <td><b>2</b></td>
         <td><b>3</b></td>
@@ -95,6 +98,7 @@ Let's look at an iteration example:
         <td>8</td>
     </tr>
     <tr>
+        <td><span></span></td>
         <td>1</td>
         <td>2</td>
         <td><b>3</b></td>
@@ -102,6 +106,7 @@ Let's look at an iteration example:
         <td>8</td>
     </tr>
     <tr>
+        <td><span></span></td>
         <td>1</td>
         <td>2</td>
         <td>3</td>
