@@ -14,6 +14,7 @@ Task: to parse one sorting method every day.
 ## Days
 
 - First day `Bubble sort`
+- Second day `Selection sort`
 
 ## For contributors
 
