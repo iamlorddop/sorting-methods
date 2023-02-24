@@ -17,10 +17,9 @@ Task: to parse one sorting method every day.
 
 ## For contributors
 
-You can fork this repository and add a sorting parsing folder in another programming language. Be sure to add a README.md. Focus on the structure of the javascript README.md.
+You can fork this repository and add a sorting parsing folder in another programming language.
 
 Structure:
-- `/name-of-sorting-method/name-of-programming-language/README.md`
 - `/name-of-sorting-method/name-of-programming-language/your-file-is-in-another-programming-language`
 
 ---
