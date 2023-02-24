@@ -4,7 +4,7 @@
   <img src="https://github.com/iamlorddop/sorting-methods/blob/main/assets/img/bubble-sort.gif" alt="bubble-sort.gif">
 </div>
 
-Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
+Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high. Usually bubble sort is used in training, it is not effective in real projects.
 
 ## How does Bubble Sort Work?
 
