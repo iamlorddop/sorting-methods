@@ -47,9 +47,9 @@ bubbleSort(thirstArray);
 bubbleSort(fourthArray);
 
 // Test for first concept
-// bubbleSortSecondConcept(firstArray);
-// bubbleSortSecondConcept(secondArray);
-// bubbleSortSecondConcept(thirstArray);
-// bubbleSortSecondConcept(fourthArray);
+bubbleSortSecondConcept(firstArray);
+bubbleSortSecondConcept(secondArray);
+bubbleSortSecondConcept(thirstArray);
+bubbleSortSecondConcept(fourthArray);
 
 console.log(`After sort 1 array: ${firstArray}\nAfter sort 2 array: ${secondArray}\nAfter sort 3 array: ${thirstArray}\nAfter sort 4 array: ${fourthArray}`);
