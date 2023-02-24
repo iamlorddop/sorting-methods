@@ -19,7 +19,7 @@ Pass 1: Bubble sort starts with very first two elements, comparing them to check
     </tr>
     <tr>
         <th>Pass 1</th>
-        <td><b style="color: rgb(26,115,232)">5</b></td>
+        <td><b>5</b></td>
         <td><b>1</b></td>
         <td>4</td>
         <td>2</td>
@@ -119,3 +119,38 @@ The array is already sorted, but algorithm does not know if it is completed. <br
         <td><b>8</b></td>
     </tr>
 </table>
+
+## Bubble sort: concept 1
+
+- Iterate over the entire array and compare it to the original element.
+- If it is greater than the next, then rearrange them.
+- If not more, increment the pointer and compare the next two elements.
+- When we reach the end, we know that the largest element of the array is in the last position.
+- We repeat the process N times (where N is the length of the array) and each time we go to the last sorted element.
+
+Time Complexity: O(N2)
+Auxiliary Space: O(1) 
+
+## Bubble sort: concept 2
+
+- Iterate over the entire array and compare it to the original element.
+- If it is greater than the next, then rearrange them.
+- Note that the exchange has taken place.
+- If the exchange has occurred, we go through the array from the beginning.
+- We know that the array is sorted when there are no more exchanges.
+
+Time Complexity: O(N2)
+Auxiliary Space: O(1) 
+
+```
+See the required code in the root of this directory
+```
+
+## Worst Case Analysis for Bubble Sort
+
+The worst-case condition for bubble sort occurs when elements of the array are arranged in decreasing order.
+In the worst case, the total number of iterations or passes required to sort a given array is (n-1). where 'n' is a number of elements present in the array.
+
+Worst and Average Case Time Complexity: O(N2). The worst case occurs when an array is reverse sorted.
+Best Case Time Complexity: O(N). The best case occurs when an array is already sorted.
+Auxiliary Space: O(1)
