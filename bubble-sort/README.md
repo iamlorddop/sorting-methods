@@ -19,7 +19,7 @@ Pass 1: Bubble sort starts with very first two elements, comparing them to check
     </tr>
     <tr>
         <th>Pass 1</th>
-        <td><b>5</b></td>
+        <td><b style="color: rgb(26,115,232)">5</b></td>
         <td><b>1</b></td>
         <td>4</td>
         <td>2</td>
