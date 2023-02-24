@@ -1,5 +1,9 @@
 # Bubble sort
 
+<div>
+  <img src="https://github.com/iamlorddop/sorting-methods/blob/main/assets/img/bubble-sort.gif" alt="bubble-sort.gif">
+</div>
+
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
 
 ## How does Bubble Sort Work?
@@ -129,6 +133,7 @@ The array is already sorted, but algorithm does not know if it is completed. <br
 - We repeat the process N times (where N is the length of the array) and each time we go to the last sorted element.
 
 Time Complexity: O(N2)
+
 Auxiliary Space: O(1) 
 
 ## Bubble sort: concept 2
@@ -140,6 +145,7 @@ Auxiliary Space: O(1)
 - We know that the array is sorted when there are no more exchanges.
 
 Time Complexity: O(N2)
+
 Auxiliary Space: O(1) 
 
 ```
