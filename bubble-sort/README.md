@@ -6,6 +6,8 @@ Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping 
 
 Let's look at an iteration example:
 
+Pass 1: Bubble sort starts with very first two elements, comparing them to check which one is greater.
+
 <table>
     <tr>
         <th>Pass</th>
@@ -15,7 +17,6 @@ Let's look at an iteration example:
         <th>3</th>
         <th>4</th>
     </tr>
-    <p>Bubble sort starts with very first two elements, comparing them to check which one is greater.</p>
     <tr>
         <th>Pass 1</th>
         <td><b>5</b></td>
@@ -80,7 +81,11 @@ Let's look at an iteration example:
         <td><b>5</b></td>
         <td><b>8</b></td>
     </tr>
-    <p>The array is already sorted, but algorithm does not know if it is completed. <br>The algorithm needs one whole pass without any swap to know it is sorted.</p>
+</table>
+
+The array is already sorted, but algorithm does not know if it is completed. <br>The algorithm needs one whole pass without any swap to know it is sorted.
+
+<table>
     <tr>
         <th>Pass 3</th>
         <td><b>1</b></td>
