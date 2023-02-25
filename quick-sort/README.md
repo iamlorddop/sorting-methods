@@ -1,4 +1,4 @@
-#Quick sort
+# Quick sort
 
 <div align="center">
   <img src="https://github.com/iamlorddop/sorting-methods/blob/main/assets/img/sorting_quicksort_anim.gif">
