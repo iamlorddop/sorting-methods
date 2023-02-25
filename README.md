@@ -13,7 +13,8 @@ Task: to parse one sorting method every day.
 ## Days
 
 - First day [Bubble sort](https://github.com/iamlorddop/sorting-methods/tree/main/bubble-sort)
-- Second day `Selection sort`
+- Second day [Selection sort](https://github.com/iamlorddop/sorting-methods/tree/main/selection-sort)
+- Third day [Insertion sort](https://github.com/iamlorddop/sorting-methods/tree/main/insertion-sort)
 
 ## For contributors
 
