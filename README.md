@@ -7,13 +7,12 @@
 ## What is «Sorting methods» repository
 
 This repository was created to study sorting methods, their complexity in big O notation. 
-I write the analysis of algorithms in JavaScript.
 
 Task: to parse one sorting method every day.
 
 ## Days
 
-- First day `Bubble sort`
+- First day [Bubble sort](https://github.com/iamlorddop/sorting-methods/tree/main/bubble-sort)
 - Second day `Selection sort`
 
 ## For contributors
