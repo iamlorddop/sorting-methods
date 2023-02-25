@@ -15,11 +15,11 @@ Pass 1: Bubble sort starts with very first two elements, comparing them to check
 <table>
     <tr>
         <th>Pass</th>
-        <th>0</th>
-        <th>1</th>
-        <th>2</th>
-        <th>3</th>
-        <th>4</th>
+        <th>i[0]</th>
+        <th>i[1]</th>
+        <th>i[2]</th>
+        <th>i[3]</th>
+        <th>i[4]</th>
     </tr>
     <tr>
         <th>Pass 1</th>
