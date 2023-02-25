@@ -8,7 +8,7 @@
 
 This repository was created to study sorting methods, their complexity in big O notation. 
 
-Task: to parse one sorting method every day.
+Task: to solve one sorting method every day.
 
 ## Days
 
