@@ -144,9 +144,9 @@ Auxiliary Space: O(1)
 - If the exchange has occurred, we go through the array from the beginning.
 - We know that the array is sorted when there are no more exchanges.
 
-Time Complexity: O(N2)
+**Time Complexity**: O(N2)
 
-Auxiliary Space: O(1) 
+**Auxiliary Space**: O(1) 
 
 ```
 See the required code in the root of this directory
