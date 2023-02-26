@@ -135,3 +135,7 @@ Algorithm for linked list:
 - Traverse the given list, do following for every node.
 - Insert current node in sorted way in sorted or result list.
 - Change head of given linked list to head of sorted (or result) list. 
+
+```
+See the required code in the root of this directory
+```
