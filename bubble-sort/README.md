@@ -1,6 +1,6 @@
 # Bubble sort
 
-<div>
+<div align="center">
   <img src="https://github.com/iamlorddop/sorting-methods/blob/main/assets/img/bubble-sort.gif" alt="bubble-sort.gif">
 </div>
 
