@@ -246,3 +246,15 @@ And finally:
 ```
 See the required code in the root of this directory
 ```
+
+**Stability**: The default implementation is not stable. However any sorting algorithm can be made stable by considering indexes as comparison parameter. 
+
+## Advantages of Quick Sort:
+- It is efficient on large data sets.
+- It has a low overhead, as it only requires a small amount of memory to function.
+
+## Disadvantages of Quick Sort:
+- It has a worst-case time complexity of O(N2), which occurs when the pivot is chosen poorly.
+- It is not a good choice for small data sets.
+- It is not cache-efficient.
+- It is not stable sort, meaning that if two elements have the same key, their relative order will not be preserved in the sorted output in case of quick sort, because here we swapping of elements according to pivot’s position (without considering their original positions).
