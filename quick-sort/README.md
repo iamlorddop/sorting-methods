@@ -153,7 +153,7 @@ When <b>rightmark</b> becomes less than <b>leftmark</b>, we stop. The position o
         <td>20</td>
         <td>17</td>
         <td>44</td>
-        <td><b>55</b></td>
+        <td><b>54</b></td>
         <td>77</td>
         <td>55</td>
         <td>93</td>
