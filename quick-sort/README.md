@@ -4,7 +4,7 @@
   <img src="https://github.com/iamlorddop/sorting-methods/blob/main/assets/img/quick-sort.gif">
 </div>
 
-Quicksort first selects a value called the <b>pivot</b>. Although there are many ways to select it, we'll just use the first value in the list. The role of the anchor element is to help split the list. The position where it ends up in the resulting sorted list, commonly referred to as the <b>split point</b>, will be used to split the list on subsequent calls to quicksort.
+Quick sort first selects a value called the <b>pivot</b>. Although there are many ways to select it, we'll just use the first value in the list. The role of the anchor element is to help split the list. The position where it ends up in the resulting sorted list, commonly referred to as the <b>split point</b>, will be used to split the list on subsequent calls to quicksort.
 
 ## How does Quick Sort Work?
 
@@ -153,7 +153,7 @@ When <b>rightmark</b> becomes less than <b>leftmark</b>, we stop. The position o
         <td>20</td>
         <td>17</td>
         <td>44</td>
-        <td><b>55</b></td>
+        <td><b>54</b></td>
         <td>77</td>
         <td>55</td>
         <td>93</td>
