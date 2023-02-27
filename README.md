@@ -20,7 +20,7 @@ Task: to solve one sorting method every day.
 
 ## For contributors
 
-You can fork this repository and add a sorting parsing folder in another programming language.
+You can fork this repository and add a sorting method folder in another programming language.
 
 Structure:
 - `/name-of-sorting-method/name-of-programming-language/your-file-is-in-another-programming-language`
