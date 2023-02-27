@@ -16,6 +16,7 @@ Task: to solve one sorting method every day.
 - Second day [Selection sort](https://github.com/iamlorddop/sorting-methods/tree/main/selection-sort)
 - Third day [Insertion sort](https://github.com/iamlorddop/sorting-methods/tree/main/insertion-sort)
 - Fourth day [Quick sort](https://github.com/iamlorddop/sorting-methods/tree/main/quick-sort)
+- Fifth day [Bucket sort](https://github.com/iamlorddop/sorting-methods/tree/main/bucket-sort)
 
 ## For contributors
 
