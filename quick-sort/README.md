@@ -96,6 +96,7 @@ The sample: left + pivot + right (Plus is merge in this example).
         <th>i[2]</th>
         <th>i[3]</th>
         <th>i[4]</th>
+        <th>i[5]</th>
         <th><span></span></th>
         <th>i[0]</th>
         <th>i[1]</th>
@@ -163,6 +164,7 @@ The same operation will be for the right array:
         <th>i[2]</th>
         <th>i[3]</th>
         <th>i[4]</th>
+        <th>i[5]</th>
         <th><span></span></th>
         <th><span></span></th>
         <th>i[0]</th>
@@ -196,11 +198,11 @@ The same operation will be for the right array:
     </tr>
     <tr>
         <th>Left</th>
-        <td><span></span></td>
         <td>& right</td>
         <td>30</td>
         <th>return</th>
         <td>-10</td>
+        <td><span></span></td>
     </tr>
 </table>
 
