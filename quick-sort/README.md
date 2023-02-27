@@ -4,7 +4,7 @@
   <img src="https://github.com/iamlorddop/sorting-methods/blob/main/assets/img/quick-sort.gif">
 </div>
 
-Quicksort first selects a value called the <b>pivot</b>. Although there are many ways to select it, we'll just use the first value in the list. The role of the anchor element is to help split the list. The position where it ends up in the resulting sorted list, commonly referred to as the <b>split point</b>, will be used to split the list on subsequent calls to quicksort.
+Quick sort first selects a value called the <b>pivot</b>. Although there are many ways to select it, we'll just use the first value in the list. The role of the anchor element is to help split the list. The position where it ends up in the resulting sorted list, commonly referred to as the <b>split point</b>, will be used to split the list on subsequent calls to quicksort.
 
 ## How does Quick Sort Work?
 
