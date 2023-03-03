@@ -17,6 +17,11 @@ Task: to solve one sorting method every day.
 - Third day [Insertion sort](https://github.com/iamlorddop/sorting-methods/tree/main/insertion-sort)
 - Fourth day [Quick sort](https://github.com/iamlorddop/sorting-methods/tree/main/quick-sort)
 - Fifth day [Bucket sort](https://github.com/iamlorddop/sorting-methods/tree/main/bucket-sort)
+- Sixth day [Merge sort](https://github.com/iamlorddop/sorting-methods/tree/main/merge-sort)
+- Seventh day [Heap sort](https://github.com/iamlorddop/sorting-methods/tree/main/heap-sort)
+- Eighth day [Radix sort](https://github.com/iamlorddop/sorting-methods/tree/main/radix-sort)
+- Nineth day [Counting sort](https://github.com/iamlorddop/sorting-methods/tree/main/counting-sort)
+- Tenth day [Shell sort](https://github.com/iamlorddop/sorting-methods/tree/main/shell-sort)
 
 ## For contributors
 
